@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-roc
+  x-cortex-tag: monster-roc
+  x-cortex-custom-metadata:
+    alignment: lawful-evil
+    type: monstrosity
+    challenge_rating: 11
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-roc
+      alias: github-token-test
